@@ -1,0 +1,51 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	../cctv.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:2
+BeautifulSoup	../priceHistory.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:2
+BeautifulSoup	../souhu.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:2
+BeautifulSoup	../zhongguojingjiwang.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:2
+cctv	../main.py	/^import cctv$/;"	kind:namespace	line:3
+cctv.py	../cctv.py	1;"	kind:file	line:1
+getArticle	../cctv.py	/^def getArticle(url):$/;"	kind:function	line:34
+getArticle	../souhu.py	/^def getArticle(url):$/;"	kind:function	line:21
+getArticle	../zhongguojingjiwang.py	/^def getArticle(url):$/;"	kind:function	line:28
+getDateAndTag	../priceHistory.py	/^def getDateAndTag(url):$/;"	kind:function	line:16
+getHtml	../cctv.py	/^def getHtml(url):$/;"	kind:function	line:12
+getHtml	../priceHistory.py	/^def getHtml(url):$/;"	kind:function	line:9
+getHtml	../souhu.py	/^def getHtml(url):$/;"	kind:function	line:8
+getHtml	../zhongguojingjiwang.py	/^def getHtml(url):$/;"	kind:function	line:8
+getUrls	../cctv.py	/^def getUrls(url):$/;"	kind:function	line:26
+getUrls	../souhu.py	/^def getUrls(url):$/;"	kind:function	line:13
+getUrls	../zhongguojingjiwang.py	/^def getUrls(url):$/;"	kind:function	line:13
+json	../cctv.py	/^import json$/;"	kind:namespace	line:4
+json	../priceHistory.py	/^import json$/;"	kind:namespace	line:4
+json	../zhongguojingjiwang.py	/^import json$/;"	kind:namespace	line:4
+main.py	../main.py	1;"	kind:file	line:1
+mainAdderss	../souhu.py	/^mainAdderss = 'http:\/\/www.sohu.com\/tag\/66048'$/;"	kind:variable	line:6
+mainAddress	../cctv.py	/^mainAddress = 'http:\/\/jingji.cctv.com\/'$/;"	kind:variable	line:7
+mainAddress	../priceHistory.py	/^mainAddress = 'https:\/\/cn.investing.com\/indices\/csi-300-futures-historical-data'$/;"	kind:variable	line:6
+mainAddress	../zhongguojingjiwang.py	/^mainAddress = 'http:\/\/finance.ce.cn\/futures\/'$/;"	kind:variable	line:6
+match_title	../souhu.py	/^match_title = r'(.{1,})(\\s*)$'$/;"	kind:variable	line:5
+pattern	../priceHistory.py	/^pattern = r'^(\\d{4}).(\\d{1,2}).(\\d{1,2}).$'$/;"	kind:variable	line:7
+priceHistory.py	../priceHistory.py	1;"	kind:file	line:1
+re	../cctv.py	/^import re$/;"	kind:namespace	line:5
+re	../priceHistory.py	/^import re$/;"	kind:namespace	line:3
+re	../souhu.py	/^import re$/;"	kind:namespace	line:3
+re	../zhongguojingjiwang.py	/^import re$/;"	kind:namespace	line:3
+requests	../cctv.py	/^import requests$/;"	kind:namespace	line:1
+requests	../priceHistory.py	/^import requests$/;"	kind:namespace	line:1
+requests	../souhu.py	/^import requests$/;"	kind:namespace	line:1
+requests	../zhongguojingjiwang.py	/^import requests$/;"	kind:namespace	line:1
+souhu	../main.py	/^import souhu$/;"	kind:namespace	line:1
+souhu.py	../souhu.py	1;"	kind:file	line:1
+spider	../cctv.py	/^def spider():$/;"	kind:function	line:56
+spider	../priceHistory.py	/^def spider():$/;"	kind:function	line:27
+spider	../souhu.py	/^def spider():$/;"	kind:function	line:31
+spider	../zhongguojingjiwang.py	/^def spider():$/;"	kind:function	line:44
+webdriver	../cctv.py	/^from selenium import webdriver$/;"	kind:namespace	line:3
+zhongguojingjiwang	../main.py	/^import zhongguojingjiwang$/;"	kind:namespace	line:2
+zhongguojingjiwang.py	../zhongguojingjiwang.py	1;"	kind:file	line:1

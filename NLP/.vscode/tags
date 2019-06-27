@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+createTraingData.py	../createTraingData.py	1;"	kind:file	line:1
+createTrainingData	../createTraingData.py	/^def createTrainingData():$/;"	kind:function	line:7
+jieba	../createTraingData.py	/^import jieba$/;"	kind:namespace	line:2
+json	../createTraingData.py	/^import json$/;"	kind:namespace	line:5
+np	../createTraingData.py	/^import numpy as np$/;"	kind:namespace	line:4
+os	../createTraingData.py	/^import os$/;"	kind:namespace	line:3
+pridect.py	../pridect.py	1;"	kind:file	line:1

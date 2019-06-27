@@ -1,0 +1,102 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ArticleList2Word	../NLP/createTrainingData.py	/^def ArticleList2Word(names):$/;"	kind:function	line:23
+ArticleList2Word	../NLP/pridect.py	/^from .createTrainingData import ArticleList2Word$/;"	kind:namespace	line:5
+BeautifulSoup	../spider/cctv.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:3
+BeautifulSoup	../spider/priceHistory.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:3
+BeautifulSoup	../spider/souhu.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:3
+BeautifulSoup	../spider/zhongguojingjiwang.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:3
+NLP	../__main__.py	/^import NLP$/;"	kind:namespace	line:2
+SVC	../NLP/pridect.py	/^from sklearn.svm import SVC$/;"	kind:namespace	line:2
+Word2Number	../NLP/createTrainingData.py	/^def Word2Number(article, vocabs):$/;"	kind:function	line:13
+Word2Number	../NLP/pridect.py	/^from .createTrainingData import Word2Number$/;"	kind:namespace	line:4
+__init__	../NLP/createTrainingData.py	/^    import __init__$/;"	kind:namespace	line:75
+__init__.py	../NLP/__init__.py	1;"	kind:file	line:1
+__init__.py	../spider/__init__.py	1;"	kind:file	line:1
+__main__.py	../__main__.py	1;"	kind:file	line:1
+a	../writeInitFile.py	/^a = configparser.ConfigParser()$/;"	kind:variable	line:3
+cctv.py	../spider/cctv.py	1;"	kind:file	line:1
+cctv_spider	../spider/cctv.py	/^def cctv_spider(path):$/;"	kind:function	line:64
+cctv_spider	../spider/main.py	/^from .cctv import cctv_spider$/;"	kind:namespace	line:3
+china_spider	../spider/main.py	/^from .zhongguojingjiwang import china_spider$/;"	kind:namespace	line:2
+china_spider	../spider/zhongguojingjiwang.py	/^def china_spider(path):$/;"	kind:function	line:51
+collectNews	../spider/__init__.py	/^from .main import collectNews$/;"	kind:namespace	line:1
+collectNews	../spider/main.py	/^def collectNews(path):$/;"	kind:function	line:8
+configparser	../writeInitFile.py	/^import configparser$/;"	kind:namespace	line:1
+createData	../NLP/__init__.py	/^from .createTrainingData import createData$/;"	kind:namespace	line:1
+createData	../NLP/createTrainingData.py	/^def createData():$/;"	kind:function	line:39
+createTrainingData.py	../NLP/createTrainingData.py	1;"	kind:file	line:1
+datetime	../NLP/pridect.py	/^from datetime import datetime$/;"	kind:namespace	line:3
+getArticle	../spider/cctv.py	/^def getArticle(url):$/;"	kind:function	line:35
+getArticle	../spider/souhu.py	/^def getArticle(url):$/;"	kind:function	line:40
+getArticle	../spider/zhongguojingjiwang.py	/^def getArticle(url):$/;"	kind:function	line:30
+getDateAndTag	../spider/priceHistory.py	/^def getDateAndTag(url):$/;"	kind:function	line:19
+getHtml	../spider/cctv.py	/^def getHtml(url):$/;"	kind:function	line:13
+getHtml	../spider/priceHistory.py	/^def getHtml(url):$/;"	kind:function	line:11
+getHtml	../spider/souhu.py	/^def getHtml(url):$/;"	kind:function	line:27
+getHtml	../spider/zhongguojingjiwang.py	/^def getHtml(url):$/;"	kind:function	line:10
+getUrls	../spider/cctv.py	/^def getUrls(url):$/;"	kind:function	line:27
+getUrls	../spider/souhu.py	/^def getUrls(url):$/;"	kind:function	line:32
+getUrls	../spider/zhongguojingjiwang.py	/^def getUrls(url):$/;"	kind:function	line:15
+init_file	../__main__.py	/^    init_file = json.load(f)$/;"	kind:variable	line:7
+jieba	../NLP/__init__.py	/^import jieba$/;"	kind:namespace	line:3
+jieba	../NLP/createTrainingData.py	/^import jieba$/;"	kind:namespace	line:2
+js	../spider/souhu.py	/^js = 'window.scroll(0, document.body.scrollHeight)'$/;"	kind:variable	line:9
+json	../NLP/createTrainingData.py	/^import json$/;"	kind:namespace	line:5
+json	../NLP/pridect.py	/^import json$/;"	kind:namespace	line:6
+json	../__main__.py	/^import json$/;"	kind:namespace	line:4
+json	../spider/cctv.py	/^import json$/;"	kind:namespace	line:5
+json	../spider/priceHistory.py	/^import json$/;"	kind:namespace	line:5
+json	../spider/souhu.py	/^import json$/;"	kind:namespace	line:5
+json	../spider/zhongguojingjiwang.py	/^import json$/;"	kind:namespace	line:5
+lda	../NLP/pridect.py	/^import lda$/;"	kind:namespace	line:1
+main.py	../spider/main.py	1;"	kind:file	line:1
+mainAddress	../spider/cctv.py	/^mainAddress = 'http:\/\/jingji.cctv.com\/'$/;"	kind:variable	line:8
+mainAddress	../spider/priceHistory.py	/^mainAddress = 'https:\/\/cn.investing.com\/indices\/csi-300-futures-historical-data'$/;"	kind:variable	line:8
+mainAddress	../spider/souhu.py	/^mainAddress = 'http:\/\/www.sohu.com\/tag\/66048'$/;"	kind:variable	line:8
+mainAddress	../spider/zhongguojingjiwang.py	/^mainAddress = 'http:\/\/finance.ce.cn\/futures\/'$/;"	kind:variable	line:8
+np	../NLP/createTrainingData.py	/^import numpy as np$/;"	kind:namespace	line:3
+os	../NLP/__init__.py	/^import os$/;"	kind:namespace	line:4
+os	../NLP/createTrainingData.py	/^import os$/;"	kind:namespace	line:4
+os	../NLP/pridect.py	/^import os$/;"	kind:namespace	line:7
+os	../__main__.py	/^import os$/;"	kind:namespace	line:3
+os	../spider/cctv.py	/^import os.path$/;"	kind:namespace	line:1
+os	../spider/main.py	/^import os$/;"	kind:namespace	line:5
+os	../spider/priceHistory.py	/^import os.path$/;"	kind:namespace	line:1
+os	../spider/souhu.py	/^import os.path$/;"	kind:namespace	line:1
+os	../spider/zhongguojingjiwang.py	/^import os.path$/;"	kind:namespace	line:1
+path	../spider/cctv.py	/^import os.path$/;"	kind:namespace	line:1
+path	../spider/priceHistory.py	/^import os.path$/;"	kind:namespace	line:1
+path	../spider/souhu.py	/^import os.path$/;"	kind:namespace	line:1
+path	../spider/zhongguojingjiwang.py	/^import os.path$/;"	kind:namespace	line:1
+pattern	../spider/priceHistory.py	/^pattern = r'^(\\d{4}).(\\d{1,2}).(\\d{1,2}).$'$/;"	kind:variable	line:9
+predict	../NLP/__init__.py	/^from .pridect import predict$/;"	kind:namespace	line:2
+predict	../NLP/pridect.py	/^def predict(ini_topics, ini_iter, ini_random_state, ini_C, ini_kernel):$/;"	kind:function	line:9
+priceHistory.py	../spider/priceHistory.py	1;"	kind:file	line:1
+price_spider	../spider/main.py	/^from .priceHistory import price_spider$/;"	kind:namespace	line:4
+price_spider	../spider/priceHistory.py	/^def price_spider():$/;"	kind:function	line:30
+pridect.py	../NLP/pridect.py	1;"	kind:file	line:1
+re	../spider/cctv.py	/^import re$/;"	kind:namespace	line:6
+re	../spider/priceHistory.py	/^import re$/;"	kind:namespace	line:6
+re	../spider/souhu.py	/^import re$/;"	kind:namespace	line:6
+re	../spider/zhongguojingjiwang.py	/^import re$/;"	kind:namespace	line:6
+requests	../spider/cctv.py	/^import requests$/;"	kind:namespace	line:2
+requests	../spider/priceHistory.py	/^import requests$/;"	kind:namespace	line:2
+requests	../spider/souhu.py	/^import requests$/;"	kind:namespace	line:2
+requests	../spider/zhongguojingjiwang.py	/^import requests$/;"	kind:namespace	line:2
+rmtree	../spider/main.py	/^from shutil import rmtree$/;"	kind:namespace	line:6
+souhu.py	../spider/souhu.py	1;"	kind:file	line:1
+souhu_spider	../spider/main.py	/^from .souhu import souhu_spider$/;"	kind:namespace	line:1
+souhu_spider	../spider/souhu.py	/^def souhu_spider(path):$/;"	kind:function	line:66
+spider	../__main__.py	/^import spider$/;"	kind:namespace	line:1
+useBrowser	../spider/souhu.py	/^def useBrowser(url): $/;"	kind:function	line:12
+webdriver	../spider/cctv.py	/^from selenium import webdriver$/;"	kind:namespace	line:4
+webdriver	../spider/priceHistory.py	/^from selenium import webdriver$/;"	kind:namespace	line:4
+webdriver	../spider/souhu.py	/^from selenium import webdriver$/;"	kind:namespace	line:4
+webdriver	../spider/zhongguojingjiwang.py	/^from selenium import webdriver$/;"	kind:namespace	line:4
+writeInitFile.py	../writeInitFile.py	1;"	kind:file	line:1
+zhongguojingjiwang.py	../spider/zhongguojingjiwang.py	1;"	kind:file	line:1
