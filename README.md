@@ -1,22 +1,22 @@
-* 工作环境
+### 工作环境
 - python3.6
 - chrome 浏览器
     - 安装自动控制插件 https://sites.google.com/a/chromium.org/chromedriver/downloads
     - 将插件放到 PATH 路径中
-- 安装库
-    - 在终端中输入以下命令（首先保证当前工作目录是本文件所在的工作目录）
-        - pip install -r nlp_pip_install
-        - pip install -r web_pip_install
+### 安装库
+- 在终端中输入以下命令（首先保证当前工作目录是本文件所在的工作目录）
+    - pip install -r nlp_pip_install
+    - pip install -r web_pip_install
 
-* 配置文件
+### 配置文件
 - 只有一个配置文件，可以自定义模型的参数，参数的解释已经写在配置文件中
 
-* 运行方法
+### 运行方法
 - 如果看这个东西的你理解环境变量的话，可以直接使用以下命令
     - python3 predict
 - 也可以运行 __main__.py 文件
 
-* 工作原理
+### 工作原理
 - 爬虫收集三个网站的新闻，其中一个静态页面，两个动态页面
 - 搜集到数据会被送入 LDA 模型计算 文章主题分布
 - 根据收集到的当天的 沪深300期货价格 走势，所有文章会被打上标签
